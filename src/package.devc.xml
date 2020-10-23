@@ -3,10 +3,8 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Testing</CTEXT>
-    <PROJECT_GUID>ABReWpuTHtKa35VMFpNrrQ==</PROJECT_GUID>
-    <PROJECT_ID>TEST_NON_SAP_AG</PROJECT_ID>
-    <PROJECT_SHORT_TEXT>TEST_NON_SAP_AG</PROJECT_SHORT_TEXT>
+    <CTEXT>ABAP Git Tutorials</CTEXT>
+    <TPCLASS>X</TPCLASS>
    </DEVC>
   </asx:values>
  </asx:abap>
